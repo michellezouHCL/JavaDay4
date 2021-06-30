@@ -8,6 +8,7 @@ import java.util.Scanner;
  * first character of the input String is the same as the last 
  * character.
  */
+
 public class Main {
 
 	public static void main(String[] args) {
