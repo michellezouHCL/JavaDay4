@@ -42,6 +42,6 @@ public class Calculator {
 				+ "a.x+y\nb.x-y\nc.x*y\nd.x/y\ne.abs(x)\nf.x^2\ng.x^y\nh.sqrt(x)\n");
 		String s =sc.next();
 		System.out.print("Answer:"+calculate(x,y,s));
-		
+		sc.close();
 	}
 }
